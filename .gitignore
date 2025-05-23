@@ -85,3 +85,11 @@ out/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+build.gradle
+data/
+gradle/
+gradlew
+gradlew.bat
+img.png
+settings.gradle
+src/
